@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
+## installation
+step 1 : this project requires Node js ^18.19.1 || ^20.11.1 || ^22.0.0 and supports TypeScript >=5.4.0 <5.6.0
+Step 2 : npm install
+
 ## Frontend Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
