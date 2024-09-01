@@ -3,16 +3,17 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
 ## installation
-step 1 : this project requires Node js ^18.19.1 || ^20.11.1 || ^22.0.0 and supports TypeScript >=5.4.0 <5.6.0
+Step 1 : this project requires Node js ^18.19.1 || ^20.11.1 || ^22.0.0 and supports TypeScript >=5.4.0 <5.6.0 and if Node js installed then check for Angular/cli by ng version command and if not installed then install it with npm install -g @angular/cli@latest command
+
 Step 2 : npm install
 
 ## Frontend Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Backend Development server
+## Backend Development server (PHP 8.2.12)
 
-copy restapi folder into your PHP project path and you can use "http://localhost/restapi/api.php" in your local system.
+copy/Move restapi folder into your PHP project path and you can use "http://localhost/restapi/api.php" in your local system.
 
 ## Code scaffolding
 
